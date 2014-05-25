@@ -12,4 +12,4 @@
   *cleaned variable anmes judged human readable in context of the expiriment
   *create a subset of the data containing mean and standard deviation columns
   *Average these by Subject and Activity
-  *write this new file out to a new, tidy data set called DataCleansingAssignment.csv
+  *write this new file out to a new, tidy data set called DataCleansingAssignment.txt

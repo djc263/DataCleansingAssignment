@@ -85,6 +85,6 @@ out2<-merge(out1,activity,by.x="activity",by.y="Activity")
 out3<-out2[,-out2$activity]
 ##writes data set to a file
 
-write.csv(out3,"./DataCleaningProject.csv")
+write.table(out3,"DataCleansingProject.txt",sep="\t")
 
 
